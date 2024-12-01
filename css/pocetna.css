@@ -71,7 +71,7 @@ img{
 #slike h2{
 	border-bottom: 4px solid #CC7E0E;
 	width:1000px;
-	margin-left: 270px;
+	margin-left: 450px;
 	padding-top: 20px;
 } 
 #slike img{
@@ -91,27 +91,27 @@ img{
 	margin-top: 10px;
 	border-bottom: 4px solid #CC7E0E;
 	width: 500px;
-	margin-left: 530px;
+	margin-left: 700px;
 	text-align: center;
 }
 #ikone img{
 	height: 190px;
 	width: 220px;
-	margin-left: 200px;
+	margin-left: 260px;
 	margin-top: 30px;
 }
 #ikone h2{
 	font-size: 30px;
 	margin-top: 10px;
 	text-align: left;
-	margin-left: 170px;
+	margin-left: 270px;
 	font-style: italic;
 }
 #ikone p{
 	font-size: 30px;
 	margin-top: 10px;
 	text-align: left;
-	margin-left: 190px;
+	margin-left: 250px;
 }
 #ikone ul{
 	list-style: none;

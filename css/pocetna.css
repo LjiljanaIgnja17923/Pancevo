@@ -23,7 +23,7 @@ img{
 }
 #pozadina2{
 	background-color: #8A560C;
-	height: 2650px;
+	height: 3550px;
 	margin-top: 30px;
 }
 #logo{
@@ -170,52 +170,51 @@ img{
 	background-color:#8A560C;
 }
 #karneval {
-	width: 1500px;
+	width: 1900px;
 	margin: 10px auto;
 	border-top: 4px solid #CC7E0E;
 }
 #svetionici {
-	width: 1500px;
+	width: 1900px;
 	margin: 10px auto;
 	border-top: 4px solid #CC7E0E;
 }
 #vajfert {
-	width: 1500px;
+	width: 1900px;
 	margin: 10px auto;
 	border-top: 4px solid #CC7E0E;
 }
 #reka-tamis {
-	width: 1500px;
+	width: 1900px;
 	margin: 10px auto;
 	border-top: 4px solid #CC7E0E;
 }
 #narodna {
-	width: 1500px;
+	width: 1900px;
 	margin: 10px auto;
 	border-top: 4px solid #CC7E0E;
 }
 #muzej {
-	width: 1500px;
+	width: 1900px;
 	margin: 10px auto;
 	border-top: 4px solid #CC7E0E;
 }
 .vest{
 	float:left;
-	width: 728px;
+	width: 900px;
 	margin-top: 20px;
 }
 .vest img{
-	width: 600px;
+	width: 830px;
 	margin-right: 20px;
 	border-radius: 20px 20px;
 }
 .vest h2{
-	font-size: 35px;
+	font-size: 45px;
 	color: #fff;
 }
 .vest p{
-	font-size: 28px;
-	margin-right: 20px;
+	font-size: 32px;
 	color: #fff;
 }
 

@@ -5,7 +5,7 @@
 body{
 	background-image: url("../img/pozadina.jpg");
 	background-repeat: no-repeat; 
-	background-size: 1700px;
+	background-size: 100%;
 	background-position:top;
 	font-family: Arial, sans-serif;
 }
